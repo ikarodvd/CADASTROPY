@@ -41,3 +41,5 @@ while register_user == 's':
 
     register_user = input("Dejesa realizar outro cadastro? (s/n)").lower()
 
+
+    
